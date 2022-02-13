@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vadim.
+- 👋 Hi, I’m Vadim-yr.
 - 👀 I’m interested in programming jobs.
 - 🌱 I’m currently learning 64-bit Assembler.
 - 💞️ I’m looking to collaborate on programming projects.
